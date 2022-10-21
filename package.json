@@ -1,17 +1,16 @@
-
 {
-"name": "tx6stxbetauto",
-"theme": "tx6s txbetauto",
-"version": "5.8.2",
-"description": "tx6s txbetauto สมัครเว็บไซต์แทงบอลเว็บตรง อันดับ 1 ให้เงินเครดิตฟรี",
-"keywords": [
-"tx6s txbetauto",
-"tx6s txbetauto เครดิตฟรี",
-"tx6s txbetauto ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/tx6stxbetauto",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "tx6stxbetauto",
+  "theme": "tx6s txbetauto",
+  "version": "5.9.0",
+  "description": "tx6s txbetauto สมัครเว็บไซต์แทงบอลเว็บตรง อันดับ 1 ให้เงินเครดิตฟรี",
+  "keywords": [
+    "tx6s txbetauto",
+    "tx6s txbetauto เครดิตฟรี",
+    "tx6s txbetauto ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/tx6stxbetauto",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
